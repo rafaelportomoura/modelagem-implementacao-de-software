@@ -17,3 +17,7 @@ int main(){
 
 No GitHub é possível adicionar um README para servir como capa para o perfil, *confira no link acima*
 
+**UFLA**
+  * [Cursos](https://ufla.br/cursos)
+  * [Site](https://ufla.br/)
+  * [Campus Virtual](https://campusvirtual.ufla.br/site_campus/)
