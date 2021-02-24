@@ -11,3 +11,9 @@ int main(){
  }
  ```
  
+
+## **GITHUB PROFILE**
+[Link do artigo](https://dev.to/dii_lua/github-profile-como-fazer-54o0)
+
+No GitHub é possível adicionar um README para servir como capa para o perfil, *confira no link acima*
+
